@@ -1,4 +1,4 @@
-[rsschool-cv](https://github.com/Mary-Bo/rsschool-cv)
+[rsschool-cv](https://github.com/Mary-Bo/rsschool-cv/cv)
 
 # Mary Bogdanova 
 ****
@@ -7,10 +7,10 @@
 + bogdanovamc@gmail.com
 + [github/mary-bo](https://github.com/Mary-Bo)
 ****
-##About me
+## About me
 I am a beginner frontend developer.
 ****
-##Skills / Code example
+## Skills / Code example
 - HTML
 - CSS
 - start JavaScript
@@ -21,10 +21,10 @@ function sum(a,b) {
 }
 ```
 ****
-##Experience
+## Experience
 project [CV](https://github.com/Mary-Bo/rsschool-cv) on [RS School](https://rs.school/) 
 ****
-##Education / English
+## Education / English
 Francisk Skorina Gomel State University
 B1 English level (intermediate)
 ****
