@@ -43,6 +43,8 @@ project [CV](https://github.com/Mary-Bo/rsschool-cv) on [RS School](https://rs.s
 
 ## Education / English
 Francisk Skorina Gomel State University
+
+
 B1 English level (intermediate)
 
 
